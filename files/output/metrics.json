@@ -1,4 +1,4 @@
-{"type": "metrics", "dataset": "train", "precision": 0.7016861219195849, "balanced_accuracy": 0.5501621601177924, "recall": 0.1144973544973545, "f1_score": 0.19687045123726346}
-{"type": "metrics", "dataset": "test", "precision": 0.7188328912466844, "balanced_accuracy": 0.5635980063404143, "recall": 0.14218258132214062, "f1_score": 0.23740692071835304}
-{"type": "cm_matrix", "dataset": "train", "true_0": {"predicted_0": 15998, "predicted_1": 230}, "true_1": {"predicted_0": 4184, "predicted_1": 541}}
-{"type": "cm_matrix", "dataset": "test", "true_0": {"predicted_0": 15998, "predicted_1": 230}, "true_1": {"predicted_0": 4184, "predicted_1": 541}}
+{"type": "metrics", "dataset": "train", "precision": 0.6921212121212121, "balanced_accuracy": 0.6577919019057792, "recall": 0.36253968253968255, "f1_score": 0.47583333333333333}
+{"type": "metrics", "dataset": "test", "precision": 0.6842105263157895, "balanced_accuracy": 0.664237433071303, "recall": 0.3751311647429171, "f1_score": 0.4845814977973568}
+{"type": "cm_matrix", "dataset": "train", "true_0": {"predicted_0": 15466, "predicted_1": 762}, "true_1": {"predicted_0": 3012, "predicted_1": 1713}}
+{"type": "cm_matrix", "dataset": "test", "true_0": {"predicted_0": 15466, "predicted_1": 762}, "true_1": {"predicted_0": 3012, "predicted_1": 1713}}
